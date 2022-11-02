@@ -1,0 +1,16 @@
+{
+    "name": "ticketbot",
+    "main": "index.js",
+    "author": "ticketbot",
+    "version": "1.0.0",
+    "description": "ticketbot",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@discordjs/voice": "^0.13.0",
+        "discord.js": "^13.2.0",
+        "moment": "^2.29.4",
+        "moment-duration-format": "^2.3.2"
+    }
+}
